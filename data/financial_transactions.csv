@@ -1,0 +1,501 @@
+Transaction_ID,Date,Month,Quarter,Fund_Name,Transaction_Type,Amount_USD,Status,Account_Tier,Region,Processing_Days,Anomaly_Flag,Anomaly_Reason
+TXN-00001,2024-11-23,November,Q4,Vanguard 500 Index,Buy,14384.02,Pending,Retail,Southeast,0,No,
+TXN-00002,2024-02-22,February,Q1,PIMCO Total Return,Buy,9822.68,Flagged,Retail,Northeast,2,Yes,Unusual frequency
+TXN-00003,2024-10-14,October,Q4,Fidelity Growth Fund,Transfer Out,59131.94,Flagged,Retail,West,3,Yes,Amount exceeds threshold
+TXN-00004,2024-12-23,December,Q4,T. Rowe Price Equity,Dividend,95742.7,Pending,Retail,Southeast,0,No,
+TXN-00005,2024-06-21,June,Q2,Vanguard 500 Index,Buy,84825.69,Flagged,Retail,Midwest,2,Yes,Off-hours activity
+TXN-00006,2024-08-23,August,Q3,PIMCO Total Return,Buy,29671.24,Flagged,Retail,Southwest,3,Yes,Off-hours activity
+TXN-00007,2024-12-26,December,Q4,Vanguard 500 Index,Buy,4291056.83,Completed,Institutional,Northeast,1,No,
+TXN-00008,2024-02-21,February,Q1,T. Rowe Price Equity,Dividend,1913886.74,Cancelled,Institutional,Southeast,3,No,
+TXN-00009,2024-12-09,December,Q4,BlackRock Bond Fund,Transfer Out,1091572.76,Completed,High Net Worth,Southeast,1,No,
+TXN-00010,2024-05-05,May,Q2,Fidelity Growth Fund,Fee,1176114.35,Flagged,Institutional,Southwest,2,Yes,Off-hours activity
+TXN-00011,2024-04-27,April,Q2,Vanguard 500 Index,Dividend,1133815.93,Flagged,Institutional,Northeast,3,Yes,Off-hours activity
+TXN-00012,2024-12-01,December,Q4,T. Rowe Price Equity,Fee,14393.22,Cancelled,Retail,Midwest,4,No,
+TXN-00013,2024-10-26,October,Q4,T. Rowe Price Equity,Transfer In,4986896.31,Flagged,Institutional,Southeast,5,Yes,Unusual frequency
+TXN-00014,2024-02-16,February,Q1,Vanguard 500 Index,Buy,59842.7,Completed,Retail,West,1,No,
+TXN-00015,2024-07-16,July,Q3,T. Rowe Price Equity,Transfer In,1943602.84,Cancelled,High Net Worth,Midwest,2,No,
+TXN-00016,2024-12-14,December,Q4,Vanguard 500 Index,Transfer Out,1538150.63,Pending,Institutional,Northeast,0,No,
+TXN-00017,2024-03-21,March,Q1,T. Rowe Price Equity,Buy,1039979.27,Pending,High Net Worth,Southeast,0,No,
+TXN-00018,2024-02-24,February,Q1,BlackRock Bond Fund,Transfer Out,76369.82,Completed,Retail,Midwest,1,No,
+TXN-00019,2024-10-03,October,Q4,PIMCO Total Return,Buy,648151.85,Flagged,Institutional,Northeast,4,Yes,Off-hours activity
+TXN-00020,2024-05-02,May,Q2,Vanguard 500 Index,Sell,81694.31,Completed,Retail,West,1,No,
+TXN-00021,2024-09-29,September,Q3,Fidelity Growth Fund,Sell,566860.43,Cancelled,High Net Worth,Southeast,5,No,
+TXN-00022,2024-04-18,April,Q2,PIMCO Total Return,Transfer Out,4976231.85,Completed,Institutional,West,1,No,
+TXN-00023,2024-11-28,November,Q4,BlackRock Bond Fund,Fee,22857.39,Cancelled,Retail,Southeast,4,No,
+TXN-00024,2024-01-11,January,Q1,PIMCO Total Return,Transfer In,64022.14,Completed,High Net Worth,Southeast,1,No,
+TXN-00025,2024-12-28,December,Q4,Vanguard 500 Index,Sell,7550.31,Completed,Retail,Midwest,1,No,
+TXN-00026,2024-05-01,May,Q2,BlackRock Bond Fund,Transfer Out,13665.03,Cancelled,Retail,Southwest,5,No,
+TXN-00027,2024-05-04,May,Q2,T. Rowe Price Equity,Fee,66068.78,Completed,Retail,Northeast,1,No,
+TXN-00028,2024-06-30,June,Q2,T. Rowe Price Equity,Fee,6530.96,Cancelled,Retail,Northeast,4,No,
+TXN-00029,2024-02-25,February,Q1,Fidelity Growth Fund,Sell,323355.48,Completed,High Net Worth,West,1,No,
+TXN-00030,2024-04-03,April,Q2,BlackRock Bond Fund,Fee,80898.21,Completed,Retail,West,1,No,
+TXN-00031,2024-10-08,October,Q4,Vanguard 500 Index,Buy,17047.96,Completed,Retail,Southeast,1,No,
+TXN-00032,2024-09-05,September,Q3,T. Rowe Price Equity,Sell,38207.83,Flagged,Retail,Southeast,4,Yes,Mismatched account tier
+TXN-00033,2024-08-20,August,Q3,BlackRock Bond Fund,Fee,30022.43,Cancelled,Retail,Southeast,2,No,
+TXN-00034,2024-10-23,October,Q4,PIMCO Total Return,Buy,58625.67,Flagged,Retail,Northeast,2,Yes,Unusual frequency
+TXN-00035,2024-09-17,September,Q3,Vanguard 500 Index,Sell,1366664.48,Completed,High Net Worth,Northeast,1,No,
+TXN-00036,2024-04-30,April,Q2,T. Rowe Price Equity,Buy,127496.24,Completed,High Net Worth,Southwest,1,No,
+TXN-00037,2024-02-11,February,Q1,T. Rowe Price Equity,Transfer Out,3381657.28,Flagged,Institutional,Southeast,3,Yes,Off-hours activity
+TXN-00038,2024-05-15,May,Q2,T. Rowe Price Equity,Sell,4652189.83,Pending,Institutional,Midwest,0,No,
+TXN-00039,2024-02-07,February,Q1,Vanguard 500 Index,Fee,21708.85,Completed,Retail,Southwest,1,No,
+TXN-00040,2024-05-15,May,Q2,Fidelity Growth Fund,Dividend,28856.25,Completed,Retail,Midwest,1,No,
+TXN-00041,2024-08-12,August,Q3,PIMCO Total Return,Transfer Out,65255.06,Pending,High Net Worth,Southwest,0,No,
+TXN-00042,2024-10-10,October,Q4,BlackRock Bond Fund,Transfer Out,11985.15,Completed,Retail,Midwest,1,No,
+TXN-00043,2024-02-24,February,Q1,PIMCO Total Return,Sell,1132085.31,Pending,Institutional,Southwest,0,No,
+TXN-00044,2024-06-24,June,Q2,Fidelity Growth Fund,Transfer Out,539686.44,Pending,High Net Worth,West,0,No,
+TXN-00045,2024-01-27,January,Q1,Vanguard 500 Index,Transfer Out,117373.88,Flagged,Institutional,Northeast,4,Yes,Unusual frequency
+TXN-00046,2024-03-23,March,Q1,T. Rowe Price Equity,Transfer In,268154.07,Flagged,High Net Worth,Northeast,2,Yes,Unusual frequency
+TXN-00047,2024-07-08,July,Q3,PIMCO Total Return,Transfer In,304961.41,Completed,Institutional,Southeast,1,No,
+TXN-00048,2024-07-05,July,Q3,Vanguard 500 Index,Dividend,35691.02,Completed,Retail,Northeast,1,No,
+TXN-00049,2024-10-13,October,Q4,T. Rowe Price Equity,Transfer In,97632.5,Completed,Retail,Southeast,1,No,
+TXN-00050,2024-03-31,March,Q1,T. Rowe Price Equity,Buy,4030952.18,Completed,Institutional,West,1,No,
+TXN-00051,2024-05-07,May,Q2,BlackRock Bond Fund,Sell,4307106.93,Completed,Institutional,Northeast,1,No,
+TXN-00052,2024-04-23,April,Q2,Fidelity Growth Fund,Fee,1192325.38,Flagged,Institutional,Southeast,5,Yes,Unusual frequency
+TXN-00053,2024-06-17,June,Q2,BlackRock Bond Fund,Buy,2058424.08,Pending,Institutional,Southwest,0,No,
+TXN-00054,2024-10-01,October,Q4,BlackRock Bond Fund,Buy,2944889.7,Completed,Institutional,Southeast,1,No,
+TXN-00055,2024-05-15,May,Q2,Vanguard 500 Index,Buy,2238330.03,Flagged,Institutional,Midwest,5,Yes,Amount exceeds threshold
+TXN-00056,2024-10-22,October,Q4,Fidelity Growth Fund,Dividend,2647609.71,Completed,Institutional,Northeast,1,No,
+TXN-00057,2024-10-02,October,Q4,Fidelity Growth Fund,Dividend,62503.96,Flagged,Retail,Midwest,4,Yes,Amount exceeds threshold
+TXN-00058,2024-09-16,September,Q3,BlackRock Bond Fund,Transfer Out,3516321.23,Flagged,Institutional,West,3,Yes,Unusual frequency
+TXN-00059,2024-08-03,August,Q3,T. Rowe Price Equity,Transfer Out,636852.26,Completed,High Net Worth,Southwest,1,No,
+TXN-00060,2024-10-07,October,Q4,Vanguard 500 Index,Dividend,78683.0,Pending,Retail,West,0,No,
+TXN-00061,2024-11-06,November,Q4,BlackRock Bond Fund,Fee,2604752.58,Cancelled,Institutional,Southeast,3,No,
+TXN-00062,2024-12-03,December,Q4,Vanguard 500 Index,Dividend,67443.17,Flagged,Retail,Southeast,3,Yes,Unusual frequency
+TXN-00063,2024-03-16,March,Q1,Vanguard 500 Index,Buy,4263714.7,Completed,Institutional,Southwest,1,No,
+TXN-00064,2024-02-07,February,Q1,T. Rowe Price Equity,Fee,2058299.03,Completed,Institutional,West,1,No,
+TXN-00065,2024-03-16,March,Q1,Vanguard 500 Index,Buy,80508.93,Flagged,Retail,Southeast,2,Yes,Mismatched account tier
+TXN-00066,2024-10-12,October,Q4,Fidelity Growth Fund,Buy,66923.98,Cancelled,Retail,West,4,No,
+TXN-00067,2024-08-14,August,Q3,PIMCO Total Return,Transfer Out,1799555.8,Flagged,High Net Worth,West,5,Yes,Mismatched account tier
+TXN-00068,2024-05-12,May,Q2,Fidelity Growth Fund,Transfer Out,1272159.45,Pending,High Net Worth,West,0,No,
+TXN-00069,2024-05-20,May,Q2,T. Rowe Price Equity,Buy,33916.83,Pending,Retail,Midwest,0,No,
+TXN-00070,2024-10-03,October,Q4,Vanguard 500 Index,Sell,69548.01,Completed,Retail,West,1,No,
+TXN-00071,2024-12-27,December,Q4,Fidelity Growth Fund,Buy,2758794.59,Flagged,Institutional,Midwest,2,Yes,Mismatched account tier
+TXN-00072,2024-04-15,April,Q2,T. Rowe Price Equity,Fee,980110.48,Completed,High Net Worth,West,1,No,
+TXN-00073,2024-06-29,June,Q2,BlackRock Bond Fund,Fee,1609742.93,Flagged,High Net Worth,Southwest,5,Yes,Unusual frequency
+TXN-00074,2024-04-22,April,Q2,BlackRock Bond Fund,Fee,33944.89,Cancelled,Retail,West,5,No,
+TXN-00075,2024-03-25,March,Q1,T. Rowe Price Equity,Sell,2865520.72,Completed,Institutional,Southwest,1,No,
+TXN-00076,2024-01-14,January,Q1,Vanguard 500 Index,Transfer Out,18582.04,Flagged,Retail,West,5,Yes,Off-hours activity
+TXN-00077,2024-06-16,June,Q2,Fidelity Growth Fund,Fee,1463457.42,Flagged,Institutional,West,4,Yes,Mismatched account tier
+TXN-00078,2024-02-11,February,Q1,T. Rowe Price Equity,Buy,3285706.06,Completed,Institutional,Southeast,1,No,
+TXN-00079,2024-11-29,November,Q4,Vanguard 500 Index,Buy,62322.9,Completed,Retail,Northeast,1,No,
+TXN-00080,2024-05-02,May,Q2,Fidelity Growth Fund,Fee,956816.27,Completed,High Net Worth,Southeast,1,No,
+TXN-00081,2024-05-11,May,Q2,BlackRock Bond Fund,Sell,11255.83,Completed,Retail,Midwest,1,No,
+TXN-00082,2024-01-14,January,Q1,BlackRock Bond Fund,Transfer In,472382.74,Flagged,Institutional,Southeast,2,Yes,Unusual frequency
+TXN-00083,2024-12-22,December,Q4,BlackRock Bond Fund,Transfer Out,727047.34,Completed,High Net Worth,Northeast,1,No,
+TXN-00084,2024-08-07,August,Q3,BlackRock Bond Fund,Buy,82321.93,Flagged,Retail,West,5,Yes,Amount exceeds threshold
+TXN-00085,2024-07-04,July,Q3,T. Rowe Price Equity,Transfer Out,3695596.99,Completed,Institutional,Southeast,1,No,
+TXN-00086,2024-11-29,November,Q4,BlackRock Bond Fund,Transfer In,4146099.53,Cancelled,Institutional,West,4,No,
+TXN-00087,2024-06-14,June,Q2,Fidelity Growth Fund,Buy,3777333.78,Pending,Institutional,Southeast,0,No,
+TXN-00088,2024-10-18,October,Q4,PIMCO Total Return,Transfer Out,2522101.87,Flagged,Institutional,Northeast,3,Yes,Off-hours activity
+TXN-00089,2024-09-06,September,Q3,Fidelity Growth Fund,Dividend,4413567.9,Pending,Institutional,Midwest,0,No,
+TXN-00090,2024-12-25,December,Q4,BlackRock Bond Fund,Transfer In,216945.28,Completed,High Net Worth,Southeast,1,No,
+TXN-00091,2024-07-27,July,Q3,T. Rowe Price Equity,Transfer In,2296055.29,Completed,Institutional,West,1,No,
+TXN-00092,2024-01-09,January,Q1,Vanguard 500 Index,Dividend,1600409.55,Completed,Institutional,Southeast,1,No,
+TXN-00093,2024-10-24,October,Q4,BlackRock Bond Fund,Fee,1720877.36,Flagged,Institutional,Southwest,4,Yes,Mismatched account tier
+TXN-00094,2024-06-05,June,Q2,BlackRock Bond Fund,Sell,12395.7,Completed,Retail,Midwest,1,No,
+TXN-00095,2024-10-01,October,Q4,Fidelity Growth Fund,Sell,3650466.51,Completed,Institutional,Midwest,1,No,
+TXN-00096,2024-09-25,September,Q3,PIMCO Total Return,Dividend,23134.57,Completed,Retail,Midwest,1,No,
+TXN-00097,2024-04-01,April,Q2,BlackRock Bond Fund,Buy,4874045.16,Completed,Institutional,Northeast,1,No,
+TXN-00098,2024-10-10,October,Q4,BlackRock Bond Fund,Transfer Out,4376326.7,Completed,Institutional,Northeast,1,No,
+TXN-00099,2024-10-20,October,Q4,BlackRock Bond Fund,Fee,1003381.98,Cancelled,Institutional,Midwest,2,No,
+TXN-00100,2024-05-09,May,Q2,T. Rowe Price Equity,Buy,463002.63,Completed,Institutional,West,1,No,
+TXN-00101,2024-11-18,November,Q4,Vanguard 500 Index,Sell,216102.77,Completed,High Net Worth,Midwest,1,No,
+TXN-00102,2024-05-07,May,Q2,Vanguard 500 Index,Transfer In,1591944.62,Flagged,High Net Worth,Southwest,5,Yes,Unusual frequency
+TXN-00103,2024-08-18,August,Q3,T. Rowe Price Equity,Dividend,3143033.87,Flagged,Institutional,Southwest,3,Yes,Amount exceeds threshold
+TXN-00104,2024-11-16,November,Q4,Fidelity Growth Fund,Dividend,17794.45,Completed,Retail,Southeast,1,No,
+TXN-00105,2024-02-08,February,Q1,Fidelity Growth Fund,Buy,2402571.15,Flagged,Institutional,Southwest,3,Yes,Amount exceeds threshold
+TXN-00106,2024-05-27,May,Q2,BlackRock Bond Fund,Transfer Out,92429.15,Cancelled,Retail,Southeast,3,No,
+TXN-00107,2024-08-05,August,Q3,Vanguard 500 Index,Transfer In,82749.8,Completed,Retail,Midwest,1,No,
+TXN-00108,2024-02-06,February,Q1,Vanguard 500 Index,Sell,1846325.43,Pending,High Net Worth,Southwest,0,No,
+TXN-00109,2024-08-12,August,Q3,Vanguard 500 Index,Fee,2552313.67,Pending,Institutional,Midwest,0,No,
+TXN-00110,2024-09-09,September,Q3,T. Rowe Price Equity,Buy,3058196.84,Completed,Institutional,Midwest,1,No,
+TXN-00111,2024-01-14,January,Q1,Vanguard 500 Index,Sell,297135.2,Completed,Institutional,Southwest,1,No,
+TXN-00112,2024-03-30,March,Q1,T. Rowe Price Equity,Transfer In,4985032.83,Cancelled,Institutional,Southeast,5,No,
+TXN-00113,2024-11-21,November,Q4,T. Rowe Price Equity,Buy,1733211.13,Cancelled,Institutional,West,2,No,
+TXN-00114,2024-03-23,March,Q1,BlackRock Bond Fund,Fee,4086473.57,Cancelled,Institutional,West,2,No,
+TXN-00115,2024-08-20,August,Q3,Vanguard 500 Index,Dividend,4853905.16,Pending,Institutional,Northeast,0,No,
+TXN-00116,2024-07-25,July,Q3,PIMCO Total Return,Buy,1019154.45,Cancelled,Institutional,Northeast,4,No,
+TXN-00117,2024-11-14,November,Q4,T. Rowe Price Equity,Transfer Out,27072.1,Cancelled,Retail,Southeast,3,No,
+TXN-00118,2024-05-27,May,Q2,T. Rowe Price Equity,Transfer Out,97328.11,Cancelled,Retail,Northeast,3,No,
+TXN-00119,2024-12-29,December,Q4,Fidelity Growth Fund,Dividend,231757.94,Completed,High Net Worth,West,1,No,
+TXN-00120,2024-02-28,February,Q1,T. Rowe Price Equity,Buy,2593472.87,Completed,Institutional,Midwest,1,No,
+TXN-00121,2024-05-19,May,Q2,T. Rowe Price Equity,Fee,55350.88,Cancelled,Retail,West,5,No,
+TXN-00122,2024-04-07,April,Q2,PIMCO Total Return,Transfer In,77381.18,Completed,Retail,Midwest,1,No,
+TXN-00123,2024-07-31,July,Q3,BlackRock Bond Fund,Transfer In,72742.07,Pending,Retail,Midwest,0,No,
+TXN-00124,2024-10-27,October,Q4,PIMCO Total Return,Transfer Out,54088.77,Cancelled,Retail,West,4,No,
+TXN-00125,2024-06-19,June,Q2,PIMCO Total Return,Transfer In,4361048.25,Flagged,Institutional,Midwest,5,Yes,Unusual frequency
+TXN-00126,2024-04-29,April,Q2,T. Rowe Price Equity,Buy,1991785.89,Flagged,Institutional,West,5,Yes,Unusual frequency
+TXN-00127,2024-01-19,January,Q1,Fidelity Growth Fund,Transfer In,10421.31,Flagged,Retail,West,2,Yes,Mismatched account tier
+TXN-00128,2024-03-14,March,Q1,T. Rowe Price Equity,Transfer Out,78261.77,Completed,Retail,West,1,No,
+TXN-00129,2024-05-15,May,Q2,BlackRock Bond Fund,Transfer In,85307.96,Flagged,Retail,Midwest,4,Yes,Mismatched account tier
+TXN-00130,2024-11-16,November,Q4,T. Rowe Price Equity,Transfer In,507801.97,Completed,High Net Worth,Northeast,1,No,
+TXN-00131,2024-12-16,December,Q4,BlackRock Bond Fund,Sell,3825811.5,Completed,Institutional,Northeast,1,No,
+TXN-00132,2024-12-26,December,Q4,Vanguard 500 Index,Fee,325355.75,Completed,Institutional,Northeast,1,No,
+TXN-00133,2024-01-29,January,Q1,BlackRock Bond Fund,Dividend,1296567.42,Flagged,Institutional,Southeast,3,Yes,Mismatched account tier
+TXN-00134,2024-03-28,March,Q1,Fidelity Growth Fund,Buy,1020451.14,Flagged,High Net Worth,Southeast,3,Yes,Unusual frequency
+TXN-00135,2024-08-24,August,Q3,BlackRock Bond Fund,Fee,90170.34,Pending,Retail,West,0,No,
+TXN-00136,2024-12-12,December,Q4,PIMCO Total Return,Sell,4939493.31,Completed,Institutional,Midwest,1,No,
+TXN-00137,2024-06-02,June,Q2,T. Rowe Price Equity,Transfer Out,1076163.3,Pending,Institutional,Midwest,0,No,
+TXN-00138,2024-07-15,July,Q3,T. Rowe Price Equity,Buy,1858899.87,Completed,Institutional,Southwest,1,No,
+TXN-00139,2024-05-31,May,Q2,BlackRock Bond Fund,Buy,2873052.18,Flagged,Institutional,Northeast,5,Yes,Amount exceeds threshold
+TXN-00140,2024-05-26,May,Q2,Fidelity Growth Fund,Transfer In,62278.67,Flagged,Retail,Southeast,2,Yes,Unusual frequency
+TXN-00141,2024-11-17,November,Q4,Vanguard 500 Index,Dividend,36803.69,Cancelled,Retail,Southwest,3,No,
+TXN-00142,2024-02-16,February,Q1,BlackRock Bond Fund,Dividend,13649.9,Flagged,Retail,Southeast,4,Yes,Off-hours activity
+TXN-00143,2024-03-25,March,Q1,BlackRock Bond Fund,Fee,2394823.81,Pending,Institutional,Northeast,0,No,
+TXN-00144,2024-02-08,February,Q1,Fidelity Growth Fund,Sell,226090.61,Flagged,High Net Worth,Midwest,2,Yes,Mismatched account tier
+TXN-00145,2024-05-15,May,Q2,PIMCO Total Return,Buy,2964344.45,Cancelled,Institutional,Midwest,4,No,
+TXN-00146,2024-02-25,February,Q1,Fidelity Growth Fund,Fee,689612.25,Completed,High Net Worth,Southwest,1,No,
+TXN-00147,2024-11-08,November,Q4,Fidelity Growth Fund,Transfer Out,3281273.29,Completed,Institutional,Midwest,1,No,
+TXN-00148,2024-02-29,February,Q1,Fidelity Growth Fund,Buy,668990.36,Completed,Institutional,West,1,No,
+TXN-00149,2024-04-30,April,Q2,PIMCO Total Return,Sell,3385382.47,Flagged,Institutional,Midwest,3,Yes,Mismatched account tier
+TXN-00150,2024-07-31,July,Q3,Vanguard 500 Index,Fee,3482375.25,Flagged,Institutional,Northeast,5,Yes,Unusual frequency
+TXN-00151,2024-08-15,August,Q3,Fidelity Growth Fund,Dividend,4518311.44,Completed,Institutional,Southwest,1,No,
+TXN-00152,2024-11-26,November,Q4,BlackRock Bond Fund,Buy,4844213.69,Flagged,Institutional,Southeast,2,Yes,Mismatched account tier
+TXN-00153,2024-12-05,December,Q4,Fidelity Growth Fund,Transfer Out,24735.11,Completed,Retail,Midwest,1,No,
+TXN-00154,2024-03-05,March,Q1,PIMCO Total Return,Sell,1193447.01,Completed,High Net Worth,Southeast,1,No,
+TXN-00155,2024-04-29,April,Q2,BlackRock Bond Fund,Sell,4938883.79,Completed,Institutional,Southeast,1,No,
+TXN-00156,2024-10-03,October,Q4,BlackRock Bond Fund,Sell,1978.6,Completed,Retail,Southeast,1,No,
+TXN-00157,2024-05-01,May,Q2,PIMCO Total Return,Dividend,5713.7,Completed,Retail,Midwest,1,No,
+TXN-00158,2024-08-03,August,Q3,PIMCO Total Return,Buy,3912283.49,Completed,Institutional,West,1,No,
+TXN-00159,2024-09-19,September,Q3,PIMCO Total Return,Buy,1893560.5,Cancelled,High Net Worth,Southeast,2,No,
+TXN-00160,2024-12-03,December,Q4,PIMCO Total Return,Dividend,99859.38,Cancelled,Retail,Northeast,5,No,
+TXN-00161,2024-08-06,August,Q3,Vanguard 500 Index,Fee,32550.13,Cancelled,Retail,Northeast,3,No,
+TXN-00162,2024-02-03,February,Q1,Fidelity Growth Fund,Dividend,2699728.5,Flagged,Institutional,Southwest,5,Yes,Mismatched account tier
+TXN-00163,2024-02-20,February,Q1,Vanguard 500 Index,Transfer Out,4451646.01,Completed,Institutional,West,1,No,
+TXN-00164,2024-07-30,July,Q3,BlackRock Bond Fund,Fee,1631486.91,Flagged,Institutional,Northeast,4,Yes,Off-hours activity
+TXN-00165,2024-07-10,July,Q3,Fidelity Growth Fund,Transfer Out,83261.3,Cancelled,Retail,Northeast,2,No,
+TXN-00166,2024-08-09,August,Q3,Vanguard 500 Index,Transfer Out,6468.11,Flagged,Retail,Southwest,2,Yes,Off-hours activity
+TXN-00167,2024-07-29,July,Q3,BlackRock Bond Fund,Transfer Out,60240.8,Flagged,Retail,Midwest,2,Yes,Off-hours activity
+TXN-00168,2024-10-22,October,Q4,PIMCO Total Return,Sell,4251646.76,Completed,Institutional,Southeast,1,No,
+TXN-00169,2024-06-28,June,Q2,PIMCO Total Return,Dividend,1208179.56,Completed,Institutional,Southwest,1,No,
+TXN-00170,2024-08-07,August,Q3,PIMCO Total Return,Transfer In,106458.7,Completed,High Net Worth,Midwest,1,No,
+TXN-00171,2024-05-19,May,Q2,BlackRock Bond Fund,Dividend,87051.34,Flagged,Retail,Southeast,2,Yes,Mismatched account tier
+TXN-00172,2024-03-13,March,Q1,Vanguard 500 Index,Buy,2322864.37,Completed,Institutional,West,1,No,
+TXN-00173,2024-03-21,March,Q1,BlackRock Bond Fund,Dividend,215666.23,Flagged,High Net Worth,Southwest,3,Yes,Amount exceeds threshold
+TXN-00174,2024-03-21,March,Q1,PIMCO Total Return,Buy,3343499.59,Completed,Institutional,West,1,No,
+TXN-00175,2024-09-05,September,Q3,PIMCO Total Return,Fee,3799221.4,Flagged,Institutional,Southeast,4,Yes,Amount exceeds threshold
+TXN-00176,2024-08-08,August,Q3,Vanguard 500 Index,Dividend,138563.86,Cancelled,High Net Worth,Midwest,5,No,
+TXN-00177,2024-11-02,November,Q4,Vanguard 500 Index,Buy,3860012.68,Completed,Institutional,Southeast,1,No,
+TXN-00178,2024-05-10,May,Q2,BlackRock Bond Fund,Dividend,74827.91,Completed,Retail,West,1,No,
+TXN-00179,2024-03-30,March,Q1,Fidelity Growth Fund,Fee,1675040.69,Completed,High Net Worth,Southwest,1,No,
+TXN-00180,2024-06-30,June,Q2,Vanguard 500 Index,Fee,2352795.83,Completed,Institutional,Northeast,1,No,
+TXN-00181,2024-02-09,February,Q1,BlackRock Bond Fund,Transfer In,1433522.98,Flagged,High Net Worth,West,4,Yes,Mismatched account tier
+TXN-00182,2024-02-28,February,Q1,T. Rowe Price Equity,Buy,46279.64,Flagged,Retail,Southwest,2,Yes,Off-hours activity
+TXN-00183,2024-08-11,August,Q3,Vanguard 500 Index,Sell,1071726.96,Flagged,High Net Worth,West,4,Yes,Mismatched account tier
+TXN-00184,2024-06-22,June,Q2,Fidelity Growth Fund,Dividend,63505.85,Completed,Retail,Southwest,1,No,
+TXN-00185,2024-09-28,September,Q3,PIMCO Total Return,Sell,1257717.36,Flagged,Institutional,Southeast,4,Yes,Unusual frequency
+TXN-00186,2024-04-11,April,Q2,Fidelity Growth Fund,Transfer In,95153.57,Completed,Retail,Southeast,1,No,
+TXN-00187,2024-11-17,November,Q4,T. Rowe Price Equity,Fee,680256.07,Cancelled,High Net Worth,Southwest,4,No,
+TXN-00188,2024-03-18,March,Q1,T. Rowe Price Equity,Buy,4002015.43,Cancelled,Institutional,Midwest,2,No,
+TXN-00189,2024-06-29,June,Q2,PIMCO Total Return,Buy,284275.5,Pending,Institutional,West,0,No,
+TXN-00190,2024-07-07,July,Q3,BlackRock Bond Fund,Buy,1038782.24,Completed,High Net Worth,Southwest,1,No,
+TXN-00191,2024-08-24,August,Q3,PIMCO Total Return,Transfer In,3294003.53,Completed,Institutional,Southwest,1,No,
+TXN-00192,2024-06-13,June,Q2,PIMCO Total Return,Fee,10798.44,Completed,Retail,West,1,No,
+TXN-00193,2024-06-24,June,Q2,Vanguard 500 Index,Transfer In,70908.36,Completed,Retail,Southeast,1,No,
+TXN-00194,2024-08-12,August,Q3,PIMCO Total Return,Transfer In,4597890.27,Completed,Institutional,Midwest,1,No,
+TXN-00195,2024-07-17,July,Q3,T. Rowe Price Equity,Dividend,1715484.7,Completed,Institutional,Northeast,1,No,
+TXN-00196,2024-10-12,October,Q4,T. Rowe Price Equity,Dividend,700055.97,Pending,High Net Worth,Southeast,0,No,
+TXN-00197,2024-10-25,October,Q4,Fidelity Growth Fund,Dividend,3015702.02,Pending,Institutional,Southeast,0,No,
+TXN-00198,2024-02-13,February,Q1,BlackRock Bond Fund,Transfer In,3383570.36,Flagged,Institutional,Southeast,5,Yes,Amount exceeds threshold
+TXN-00199,2024-09-17,September,Q3,BlackRock Bond Fund,Buy,4760729.64,Flagged,Institutional,Southeast,5,Yes,Off-hours activity
+TXN-00200,2024-04-08,April,Q2,Fidelity Growth Fund,Sell,84520.62,Completed,Retail,Midwest,1,No,
+TXN-00201,2024-02-21,February,Q1,PIMCO Total Return,Transfer In,742140.3,Completed,Institutional,Southwest,1,No,
+TXN-00202,2024-07-11,July,Q3,Fidelity Growth Fund,Sell,1456306.85,Completed,High Net Worth,Southeast,1,No,
+TXN-00203,2024-01-23,January,Q1,T. Rowe Price Equity,Dividend,1496146.87,Completed,Institutional,Southwest,1,No,
+TXN-00204,2024-08-17,August,Q3,Fidelity Growth Fund,Transfer In,4529474.26,Completed,Institutional,West,1,No,
+TXN-00205,2024-04-09,April,Q2,BlackRock Bond Fund,Transfer Out,3912807.78,Cancelled,Institutional,Midwest,5,No,
+TXN-00206,2024-03-23,March,Q1,Fidelity Growth Fund,Transfer In,3241777.28,Completed,Institutional,Northeast,1,No,
+TXN-00207,2024-07-09,July,Q3,PIMCO Total Return,Buy,3839272.47,Completed,Institutional,Northeast,1,No,
+TXN-00208,2024-05-19,May,Q2,T. Rowe Price Equity,Transfer In,4737424.99,Completed,Institutional,Northeast,1,No,
+TXN-00209,2024-04-23,April,Q2,T. Rowe Price Equity,Dividend,2042624.43,Completed,Institutional,Northeast,1,No,
+TXN-00210,2024-07-10,July,Q3,Fidelity Growth Fund,Fee,238118.97,Completed,Institutional,Southeast,1,No,
+TXN-00211,2024-02-20,February,Q1,BlackRock Bond Fund,Sell,91780.92,Completed,Retail,Midwest,1,No,
+TXN-00212,2024-08-29,August,Q3,Fidelity Growth Fund,Transfer Out,125730.87,Cancelled,Institutional,Southwest,2,No,
+TXN-00213,2024-01-10,January,Q1,BlackRock Bond Fund,Sell,1079154.44,Completed,High Net Worth,Southwest,1,No,
+TXN-00214,2024-02-26,February,Q1,BlackRock Bond Fund,Sell,24224.73,Pending,Retail,Northeast,0,No,
+TXN-00215,2024-11-23,November,Q4,PIMCO Total Return,Fee,59875.53,Completed,Retail,West,1,No,
+TXN-00216,2024-01-09,January,Q1,PIMCO Total Return,Transfer In,43209.27,Completed,Retail,Midwest,1,No,
+TXN-00217,2024-11-10,November,Q4,BlackRock Bond Fund,Sell,52586.71,Flagged,Retail,Northeast,2,Yes,Off-hours activity
+TXN-00218,2024-09-26,September,Q3,PIMCO Total Return,Transfer In,313318.68,Completed,Institutional,West,1,No,
+TXN-00219,2024-07-17,July,Q3,BlackRock Bond Fund,Dividend,1789532.22,Completed,Institutional,Northeast,1,No,
+TXN-00220,2024-12-02,December,Q4,Vanguard 500 Index,Transfer In,35553.76,Flagged,Retail,Northeast,3,Yes,Off-hours activity
+TXN-00221,2024-12-16,December,Q4,T. Rowe Price Equity,Transfer Out,6778.5,Cancelled,Retail,Southeast,5,No,
+TXN-00222,2024-01-19,January,Q1,BlackRock Bond Fund,Sell,31901.78,Completed,Retail,Northeast,1,No,
+TXN-00223,2024-06-07,June,Q2,PIMCO Total Return,Fee,3791125.5,Cancelled,Institutional,Northeast,3,No,
+TXN-00224,2024-05-26,May,Q2,BlackRock Bond Fund,Buy,4016777.82,Flagged,Institutional,Northeast,5,Yes,Mismatched account tier
+TXN-00225,2024-08-13,August,Q3,T. Rowe Price Equity,Dividend,1899999.94,Completed,Institutional,West,1,No,
+TXN-00226,2024-09-22,September,Q3,BlackRock Bond Fund,Buy,60444.1,Flagged,Retail,West,4,Yes,Unusual frequency
+TXN-00227,2024-06-13,June,Q2,Vanguard 500 Index,Buy,2284987.24,Flagged,Institutional,Midwest,3,Yes,Mismatched account tier
+TXN-00228,2024-12-19,December,Q4,T. Rowe Price Equity,Dividend,61677.72,Cancelled,Retail,Midwest,5,No,
+TXN-00229,2024-05-20,May,Q2,Vanguard 500 Index,Buy,4025370.28,Flagged,Institutional,Southwest,2,Yes,Unusual frequency
+TXN-00230,2024-03-14,March,Q1,PIMCO Total Return,Transfer Out,7189.72,Cancelled,Retail,Southeast,4,No,
+TXN-00231,2024-07-04,July,Q3,T. Rowe Price Equity,Transfer In,1374171.01,Completed,High Net Worth,Southeast,1,No,
+TXN-00232,2024-07-08,July,Q3,BlackRock Bond Fund,Fee,1082446.77,Completed,High Net Worth,Southeast,1,No,
+TXN-00233,2024-07-22,July,Q3,BlackRock Bond Fund,Transfer Out,3078.38,Pending,Retail,Northeast,0,No,
+TXN-00234,2024-04-05,April,Q2,T. Rowe Price Equity,Transfer In,560464.52,Flagged,High Net Worth,Northeast,5,Yes,Off-hours activity
+TXN-00235,2024-04-19,April,Q2,PIMCO Total Return,Dividend,14004.98,Cancelled,Retail,Northeast,2,No,
+TXN-00236,2024-08-19,August,Q3,Fidelity Growth Fund,Transfer Out,66950.06,Cancelled,Retail,Midwest,2,No,
+TXN-00237,2024-10-08,October,Q4,PIMCO Total Return,Dividend,79472.79,Pending,Retail,Southeast,0,No,
+TXN-00238,2024-09-17,September,Q3,Fidelity Growth Fund,Buy,79142.12,Completed,Retail,Southeast,1,No,
+TXN-00239,2024-01-14,January,Q1,BlackRock Bond Fund,Transfer In,735879.03,Flagged,Institutional,Southwest,2,Yes,Amount exceeds threshold
+TXN-00240,2024-06-07,June,Q2,T. Rowe Price Equity,Transfer Out,1549870.87,Cancelled,High Net Worth,West,2,No,
+TXN-00241,2024-03-05,March,Q1,BlackRock Bond Fund,Transfer Out,3432534.05,Completed,Institutional,West,1,No,
+TXN-00242,2024-06-25,June,Q2,Fidelity Growth Fund,Transfer In,50534.95,Completed,Retail,West,1,No,
+TXN-00243,2024-01-29,January,Q1,Vanguard 500 Index,Transfer In,893638.1,Completed,Institutional,Southeast,1,No,
+TXN-00244,2024-12-29,December,Q4,Fidelity Growth Fund,Dividend,20032.04,Pending,Retail,Midwest,0,No,
+TXN-00245,2024-10-09,October,Q4,BlackRock Bond Fund,Sell,232185.39,Pending,High Net Worth,Southwest,0,No,
+TXN-00246,2024-11-24,November,Q4,Fidelity Growth Fund,Transfer In,72202.96,Completed,Retail,Southwest,1,No,
+TXN-00247,2024-11-05,November,Q4,BlackRock Bond Fund,Transfer In,5023.45,Completed,Retail,Northeast,1,No,
+TXN-00248,2024-11-24,November,Q4,PIMCO Total Return,Dividend,1255311.43,Completed,High Net Worth,West,1,No,
+TXN-00249,2024-01-16,January,Q1,T. Rowe Price Equity,Transfer Out,1299901.76,Pending,Institutional,West,0,No,
+TXN-00250,2024-12-16,December,Q4,T. Rowe Price Equity,Dividend,16229.0,Cancelled,Retail,Northeast,5,No,
+TXN-00251,2024-09-04,September,Q3,T. Rowe Price Equity,Sell,659535.87,Flagged,High Net Worth,Southeast,4,Yes,Off-hours activity
+TXN-00252,2024-07-23,July,Q3,Fidelity Growth Fund,Dividend,2385715.58,Completed,Institutional,Southeast,1,No,
+TXN-00253,2024-05-16,May,Q2,T. Rowe Price Equity,Sell,29376.09,Completed,Retail,Northeast,1,No,
+TXN-00254,2024-07-15,July,Q3,PIMCO Total Return,Fee,93408.28,Completed,Retail,Midwest,1,No,
+TXN-00255,2024-06-09,June,Q2,Fidelity Growth Fund,Sell,1022581.43,Cancelled,High Net Worth,West,4,No,
+TXN-00256,2024-09-11,September,Q3,Vanguard 500 Index,Buy,1935038.93,Flagged,High Net Worth,West,4,Yes,Unusual frequency
+TXN-00257,2024-01-25,January,Q1,Vanguard 500 Index,Dividend,607209.34,Cancelled,High Net Worth,West,2,No,
+TXN-00258,2024-02-25,February,Q1,T. Rowe Price Equity,Sell,1893093.03,Pending,Institutional,West,0,No,
+TXN-00259,2024-07-24,July,Q3,Vanguard 500 Index,Transfer In,1514148.32,Completed,Institutional,Southwest,1,No,
+TXN-00260,2024-07-16,July,Q3,PIMCO Total Return,Fee,281681.49,Pending,High Net Worth,Southwest,0,No,
+TXN-00261,2024-02-19,February,Q1,T. Rowe Price Equity,Dividend,1522182.09,Flagged,High Net Worth,Midwest,5,Yes,Unusual frequency
+TXN-00262,2024-09-13,September,Q3,Vanguard 500 Index,Buy,80494.6,Completed,Retail,Midwest,1,No,
+TXN-00263,2024-09-22,September,Q3,T. Rowe Price Equity,Sell,1660797.16,Completed,Institutional,Southwest,1,No,
+TXN-00264,2024-07-20,July,Q3,PIMCO Total Return,Transfer Out,1039264.22,Pending,High Net Worth,Midwest,0,No,
+TXN-00265,2024-09-17,September,Q3,PIMCO Total Return,Fee,1904953.27,Pending,Institutional,Northeast,0,No,
+TXN-00266,2024-12-10,December,Q4,Vanguard 500 Index,Fee,47721.73,Pending,Retail,Southwest,0,No,
+TXN-00267,2024-12-01,December,Q4,PIMCO Total Return,Transfer In,48304.65,Completed,Retail,Southwest,1,No,
+TXN-00268,2024-09-25,September,Q3,PIMCO Total Return,Fee,57470.74,Completed,Retail,Northeast,1,No,
+TXN-00269,2024-12-24,December,Q4,Vanguard 500 Index,Sell,2152023.46,Completed,Institutional,Midwest,1,No,
+TXN-00270,2024-07-30,July,Q3,Fidelity Growth Fund,Fee,52108.98,Cancelled,Retail,Southeast,4,No,
+TXN-00271,2024-12-05,December,Q4,T. Rowe Price Equity,Transfer In,2352351.31,Flagged,Institutional,Southeast,4,Yes,Off-hours activity
+TXN-00272,2024-12-12,December,Q4,BlackRock Bond Fund,Transfer In,28261.14,Cancelled,Retail,Southeast,4,No,
+TXN-00273,2024-04-25,April,Q2,BlackRock Bond Fund,Dividend,2451036.77,Completed,Institutional,Midwest,1,No,
+TXN-00274,2024-10-13,October,Q4,BlackRock Bond Fund,Dividend,790403.66,Completed,High Net Worth,Southwest,1,No,
+TXN-00275,2024-07-21,July,Q3,BlackRock Bond Fund,Sell,95553.71,Pending,Retail,Midwest,0,No,
+TXN-00276,2024-02-10,February,Q1,BlackRock Bond Fund,Fee,1090133.24,Pending,Institutional,Southeast,0,No,
+TXN-00277,2024-10-02,October,Q4,BlackRock Bond Fund,Transfer In,61759.86,Pending,Retail,Northeast,0,No,
+TXN-00278,2024-10-27,October,Q4,Fidelity Growth Fund,Sell,1293991.92,Completed,High Net Worth,Southeast,1,No,
+TXN-00279,2024-01-27,January,Q1,Vanguard 500 Index,Fee,3437840.73,Flagged,Institutional,Northeast,2,Yes,Unusual frequency
+TXN-00280,2024-10-08,October,Q4,Fidelity Growth Fund,Fee,3803964.19,Cancelled,Institutional,Southeast,4,No,
+TXN-00281,2024-06-13,June,Q2,BlackRock Bond Fund,Transfer Out,23605.91,Completed,Retail,Southwest,1,No,
+TXN-00282,2024-01-20,January,Q1,Fidelity Growth Fund,Fee,78902.08,Completed,Retail,West,1,No,
+TXN-00283,2024-04-05,April,Q2,BlackRock Bond Fund,Buy,3053636.53,Completed,Institutional,Southwest,1,No,
+TXN-00284,2024-06-20,June,Q2,BlackRock Bond Fund,Fee,47068.07,Cancelled,Retail,Southwest,3,No,
+TXN-00285,2024-02-27,February,Q1,BlackRock Bond Fund,Sell,169012.56,Cancelled,Institutional,Southeast,4,No,
+TXN-00286,2024-05-31,May,Q2,PIMCO Total Return,Transfer Out,85686.58,Completed,Retail,Southwest,1,No,
+TXN-00287,2024-07-26,July,Q3,T. Rowe Price Equity,Transfer In,67090.96,Flagged,Retail,West,3,Yes,Unusual frequency
+TXN-00288,2024-09-01,September,Q3,BlackRock Bond Fund,Sell,1254054.14,Completed,Institutional,West,1,No,
+TXN-00289,2024-05-16,May,Q2,BlackRock Bond Fund,Dividend,3494566.09,Completed,Institutional,Midwest,1,No,
+TXN-00290,2024-02-01,February,Q1,Vanguard 500 Index,Fee,68764.33,Pending,Retail,West,0,No,
+TXN-00291,2024-12-26,December,Q4,BlackRock Bond Fund,Transfer Out,3111664.7,Completed,Institutional,Midwest,1,No,
+TXN-00292,2024-04-22,April,Q2,Fidelity Growth Fund,Fee,1930761.73,Completed,Institutional,Southwest,1,No,
+TXN-00293,2024-12-25,December,Q4,PIMCO Total Return,Fee,87376.94,Completed,Retail,Southwest,1,No,
+TXN-00294,2024-02-11,February,Q1,PIMCO Total Return,Fee,11664.77,Flagged,Retail,Southwest,3,Yes,Unusual frequency
+TXN-00295,2024-03-25,March,Q1,BlackRock Bond Fund,Transfer In,71833.34,Cancelled,Retail,Southeast,5,No,
+TXN-00296,2024-02-16,February,Q1,PIMCO Total Return,Fee,2614914.43,Completed,Institutional,Southeast,1,No,
+TXN-00297,2024-08-21,August,Q3,PIMCO Total Return,Buy,2040148.68,Cancelled,Institutional,Northeast,2,No,
+TXN-00298,2024-04-21,April,Q2,PIMCO Total Return,Buy,3531885.9,Completed,Institutional,Midwest,1,No,
+TXN-00299,2024-10-04,October,Q4,Vanguard 500 Index,Buy,41182.26,Cancelled,Retail,Midwest,3,No,
+TXN-00300,2024-11-24,November,Q4,T. Rowe Price Equity,Dividend,1940663.12,Flagged,Institutional,West,4,Yes,Unusual frequency
+TXN-00301,2024-03-01,March,Q1,Fidelity Growth Fund,Transfer In,1469323.37,Flagged,High Net Worth,Southeast,2,Yes,Unusual frequency
+TXN-00302,2024-01-12,January,Q1,BlackRock Bond Fund,Fee,1655552.85,Flagged,High Net Worth,West,5,Yes,Unusual frequency
+TXN-00303,2024-06-26,June,Q2,Fidelity Growth Fund,Dividend,81043.08,Completed,Retail,Northeast,1,No,
+TXN-00304,2024-08-02,August,Q3,PIMCO Total Return,Buy,10539.22,Completed,Retail,Northeast,1,No,
+TXN-00305,2024-01-18,January,Q1,T. Rowe Price Equity,Transfer In,40525.4,Completed,Retail,Northeast,1,No,
+TXN-00306,2024-04-29,April,Q2,PIMCO Total Return,Sell,99351.6,Completed,Retail,Southwest,1,No,
+TXN-00307,2024-04-29,April,Q2,PIMCO Total Return,Dividend,87687.7,Flagged,Retail,Midwest,5,Yes,Unusual frequency
+TXN-00308,2024-06-02,June,Q2,BlackRock Bond Fund,Buy,2528541.86,Completed,Institutional,Southwest,1,No,
+TXN-00309,2024-06-25,June,Q2,T. Rowe Price Equity,Transfer In,831166.28,Flagged,Institutional,West,3,Yes,Mismatched account tier
+TXN-00310,2024-10-02,October,Q4,T. Rowe Price Equity,Sell,4048303.18,Completed,Institutional,Southeast,1,No,
+TXN-00311,2024-01-30,January,Q1,PIMCO Total Return,Fee,311480.86,Flagged,High Net Worth,Southwest,4,Yes,Unusual frequency
+TXN-00312,2024-04-14,April,Q2,BlackRock Bond Fund,Transfer Out,553073.58,Completed,Institutional,Midwest,1,No,
+TXN-00313,2024-04-07,April,Q2,Vanguard 500 Index,Dividend,127117.73,Flagged,High Net Worth,Southwest,3,Yes,Amount exceeds threshold
+TXN-00314,2024-10-27,October,Q4,PIMCO Total Return,Sell,30667.21,Cancelled,Retail,Midwest,2,No,
+TXN-00315,2024-04-18,April,Q2,Fidelity Growth Fund,Transfer Out,3508568.8,Completed,Institutional,Southeast,1,No,
+TXN-00316,2024-12-26,December,Q4,Fidelity Growth Fund,Fee,1562252.07,Completed,High Net Worth,Midwest,1,No,
+TXN-00317,2024-07-13,July,Q3,T. Rowe Price Equity,Transfer In,1862258.63,Flagged,Institutional,Midwest,5,Yes,Mismatched account tier
+TXN-00318,2024-02-20,February,Q1,T. Rowe Price Equity,Dividend,2128257.84,Completed,Institutional,Midwest,1,No,
+TXN-00319,2024-10-15,October,Q4,Fidelity Growth Fund,Transfer Out,55554.5,Completed,Retail,Midwest,1,No,
+TXN-00320,2024-10-26,October,Q4,PIMCO Total Return,Transfer Out,1061339.74,Flagged,Institutional,Southeast,5,Yes,Unusual frequency
+TXN-00321,2024-10-18,October,Q4,Fidelity Growth Fund,Fee,4835890.51,Flagged,Institutional,West,5,Yes,Mismatched account tier
+TXN-00322,2024-03-27,March,Q1,BlackRock Bond Fund,Sell,408893.16,Completed,High Net Worth,West,1,No,
+TXN-00323,2024-10-04,October,Q4,Vanguard 500 Index,Transfer In,76551.71,Completed,Retail,Northeast,1,No,
+TXN-00324,2024-07-30,July,Q3,Fidelity Growth Fund,Transfer Out,1409.58,Completed,Retail,Southeast,1,No,
+TXN-00325,2024-09-15,September,Q3,T. Rowe Price Equity,Dividend,1829865.34,Completed,High Net Worth,Southwest,1,No,
+TXN-00326,2024-12-03,December,Q4,T. Rowe Price Equity,Buy,852110.09,Completed,High Net Worth,Southwest,1,No,
+TXN-00327,2024-01-09,January,Q1,PIMCO Total Return,Transfer Out,83428.07,Pending,High Net Worth,Midwest,0,No,
+TXN-00328,2024-12-23,December,Q4,T. Rowe Price Equity,Sell,15315.3,Completed,Retail,Southwest,1,No,
+TXN-00329,2024-04-08,April,Q2,PIMCO Total Return,Transfer In,3995188.03,Pending,Institutional,Midwest,0,No,
+TXN-00330,2024-02-10,February,Q1,BlackRock Bond Fund,Fee,1980954.41,Cancelled,High Net Worth,Southeast,3,No,
+TXN-00331,2024-06-02,June,Q2,Vanguard 500 Index,Transfer Out,38236.77,Completed,Retail,West,1,No,
+TXN-00332,2024-10-09,October,Q4,T. Rowe Price Equity,Buy,50235.91,Completed,Retail,Northeast,1,No,
+TXN-00333,2024-08-10,August,Q3,BlackRock Bond Fund,Transfer In,498044.67,Completed,High Net Worth,Northeast,1,No,
+TXN-00334,2024-12-20,December,Q4,PIMCO Total Return,Fee,68600.66,Pending,Retail,Northeast,0,No,
+TXN-00335,2024-05-23,May,Q2,PIMCO Total Return,Transfer In,2057.98,Completed,Retail,Midwest,1,No,
+TXN-00336,2024-04-16,April,Q2,PIMCO Total Return,Sell,16663.8,Flagged,Retail,Midwest,5,Yes,Unusual frequency
+TXN-00337,2024-12-12,December,Q4,PIMCO Total Return,Dividend,50328.89,Flagged,Retail,Northeast,2,Yes,Off-hours activity
+TXN-00338,2024-02-20,February,Q1,T. Rowe Price Equity,Sell,3868127.7,Completed,Institutional,Southwest,1,No,
+TXN-00339,2024-10-31,October,Q4,T. Rowe Price Equity,Dividend,2503956.93,Completed,Institutional,West,1,No,
+TXN-00340,2024-07-01,July,Q3,PIMCO Total Return,Fee,66236.85,Flagged,Retail,Southwest,4,Yes,Amount exceeds threshold
+TXN-00341,2024-05-06,May,Q2,Vanguard 500 Index,Buy,71311.88,Pending,Retail,West,0,No,
+TXN-00342,2024-11-20,November,Q4,Fidelity Growth Fund,Transfer Out,622099.5,Flagged,Institutional,Midwest,4,Yes,Amount exceeds threshold
+TXN-00343,2024-08-15,August,Q3,BlackRock Bond Fund,Dividend,19145.48,Completed,Retail,Northeast,1,No,
+TXN-00344,2024-08-17,August,Q3,PIMCO Total Return,Transfer In,9417.07,Flagged,Retail,Northeast,4,Yes,Amount exceeds threshold
+TXN-00345,2024-07-16,July,Q3,Vanguard 500 Index,Dividend,3651734.84,Flagged,Institutional,Northeast,3,Yes,Unusual frequency
+TXN-00346,2024-12-16,December,Q4,T. Rowe Price Equity,Sell,1415193.31,Completed,Institutional,Midwest,1,No,
+TXN-00347,2024-03-15,March,Q1,Vanguard 500 Index,Sell,1568786.04,Flagged,Institutional,West,4,Yes,Amount exceeds threshold
+TXN-00348,2024-05-08,May,Q2,Fidelity Growth Fund,Transfer Out,431319.04,Cancelled,High Net Worth,Southwest,2,No,
+TXN-00349,2024-03-10,March,Q1,BlackRock Bond Fund,Buy,1961460.79,Flagged,Institutional,Southwest,5,Yes,Off-hours activity
+TXN-00350,2024-06-20,June,Q2,T. Rowe Price Equity,Transfer Out,3055735.22,Completed,Institutional,Midwest,1,No,
+TXN-00351,2024-12-21,December,Q4,Fidelity Growth Fund,Fee,96888.16,Flagged,Retail,West,5,Yes,Off-hours activity
+TXN-00352,2024-10-21,October,Q4,Fidelity Growth Fund,Dividend,1888576.13,Flagged,Institutional,West,3,Yes,Unusual frequency
+TXN-00353,2024-12-15,December,Q4,PIMCO Total Return,Buy,79869.71,Cancelled,Retail,West,2,No,
+TXN-00354,2024-07-28,July,Q3,T. Rowe Price Equity,Sell,66036.97,Pending,Retail,Midwest,0,No,
+TXN-00355,2024-08-04,August,Q3,T. Rowe Price Equity,Buy,1185375.84,Cancelled,High Net Worth,West,5,No,
+TXN-00356,2024-10-05,October,Q4,Vanguard 500 Index,Dividend,65931.36,Completed,Retail,Southeast,1,No,
+TXN-00357,2024-06-30,June,Q2,Fidelity Growth Fund,Transfer Out,1935281.71,Completed,High Net Worth,West,1,No,
+TXN-00358,2024-06-18,June,Q2,T. Rowe Price Equity,Buy,22589.11,Completed,Retail,Midwest,1,No,
+TXN-00359,2024-09-22,September,Q3,PIMCO Total Return,Transfer In,2016557.43,Completed,Institutional,Midwest,1,No,
+TXN-00360,2024-12-13,December,Q4,PIMCO Total Return,Transfer Out,2465578.31,Completed,Institutional,Northeast,1,No,
+TXN-00361,2024-05-31,May,Q2,T. Rowe Price Equity,Buy,31533.09,Completed,Retail,Midwest,1,No,
+TXN-00362,2024-08-21,August,Q3,Fidelity Growth Fund,Transfer In,578352.85,Cancelled,Institutional,West,5,No,
+TXN-00363,2024-06-12,June,Q2,Vanguard 500 Index,Dividend,84993.41,Completed,Retail,Northeast,1,No,
+TXN-00364,2024-11-27,November,Q4,Vanguard 500 Index,Transfer Out,17858.1,Completed,Retail,Southwest,1,No,
+TXN-00365,2024-03-22,March,Q1,BlackRock Bond Fund,Transfer In,4009003.36,Flagged,Institutional,Southeast,3,Yes,Unusual frequency
+TXN-00366,2024-11-23,November,Q4,T. Rowe Price Equity,Fee,926671.27,Completed,High Net Worth,Southeast,1,No,
+TXN-00367,2024-08-07,August,Q3,T. Rowe Price Equity,Buy,75356.39,Completed,Retail,Midwest,1,No,
+TXN-00368,2024-02-02,February,Q1,PIMCO Total Return,Buy,1065663.95,Completed,Institutional,Midwest,1,No,
+TXN-00369,2024-02-28,February,Q1,BlackRock Bond Fund,Transfer Out,1214093.12,Cancelled,High Net Worth,Midwest,5,No,
+TXN-00370,2024-10-27,October,Q4,Vanguard 500 Index,Dividend,945384.81,Flagged,Institutional,Southwest,2,Yes,Off-hours activity
+TXN-00371,2024-12-10,December,Q4,Fidelity Growth Fund,Dividend,12136.42,Completed,Retail,Midwest,1,No,
+TXN-00372,2024-07-10,July,Q3,Fidelity Growth Fund,Transfer In,775549.76,Flagged,Institutional,Southwest,5,Yes,Mismatched account tier
+TXN-00373,2024-04-05,April,Q2,T. Rowe Price Equity,Transfer Out,1004801.95,Completed,High Net Worth,Southeast,1,No,
+TXN-00374,2024-03-12,March,Q1,Fidelity Growth Fund,Dividend,1737768.35,Cancelled,High Net Worth,Northeast,2,No,
+TXN-00375,2024-09-05,September,Q3,Fidelity Growth Fund,Sell,1323486.03,Flagged,High Net Worth,Southwest,5,Yes,Mismatched account tier
+TXN-00376,2024-07-31,July,Q3,T. Rowe Price Equity,Fee,3570.64,Completed,Retail,Southwest,1,No,
+TXN-00377,2024-04-22,April,Q2,BlackRock Bond Fund,Buy,29222.7,Pending,Retail,Southwest,0,No,
+TXN-00378,2024-08-22,August,Q3,PIMCO Total Return,Transfer Out,270761.44,Cancelled,High Net Worth,Southwest,2,No,
+TXN-00379,2024-05-17,May,Q2,PIMCO Total Return,Dividend,1170855.48,Completed,Institutional,Southwest,1,No,
+TXN-00380,2024-08-05,August,Q3,Vanguard 500 Index,Transfer Out,2303688.48,Completed,Institutional,Northeast,1,No,
+TXN-00381,2024-06-27,June,Q2,Vanguard 500 Index,Fee,81164.92,Completed,Retail,Southeast,1,No,
+TXN-00382,2024-10-28,October,Q4,BlackRock Bond Fund,Transfer Out,14353.88,Flagged,Retail,Southwest,3,Yes,Unusual frequency
+TXN-00383,2024-01-31,January,Q1,PIMCO Total Return,Dividend,378335.86,Pending,High Net Worth,Southwest,0,No,
+TXN-00384,2024-12-26,December,Q4,BlackRock Bond Fund,Dividend,314398.37,Pending,High Net Worth,Northeast,0,No,
+TXN-00385,2024-07-29,July,Q3,Vanguard 500 Index,Dividend,15051.22,Completed,Retail,Southeast,1,No,
+TXN-00386,2024-06-13,June,Q2,Fidelity Growth Fund,Transfer Out,2929385.09,Flagged,Institutional,Southeast,5,Yes,Off-hours activity
+TXN-00387,2024-07-11,July,Q3,T. Rowe Price Equity,Buy,3774031.68,Completed,Institutional,Southwest,1,No,
+TXN-00388,2024-12-21,December,Q4,BlackRock Bond Fund,Fee,112118.12,Cancelled,Institutional,Southwest,2,No,
+TXN-00389,2024-08-22,August,Q3,BlackRock Bond Fund,Buy,82572.34,Flagged,Retail,West,4,Yes,Mismatched account tier
+TXN-00390,2024-06-14,June,Q2,BlackRock Bond Fund,Dividend,1587192.12,Completed,High Net Worth,West,1,No,
+TXN-00391,2024-12-15,December,Q4,Vanguard 500 Index,Buy,708762.18,Completed,Institutional,Northeast,1,No,
+TXN-00392,2024-03-21,March,Q1,T. Rowe Price Equity,Fee,4978900.94,Completed,Institutional,Southeast,1,No,
+TXN-00393,2024-03-08,March,Q1,BlackRock Bond Fund,Sell,25413.73,Pending,Retail,Midwest,0,No,
+TXN-00394,2024-07-09,July,Q3,Fidelity Growth Fund,Buy,2203231.61,Flagged,Institutional,Southeast,2,Yes,Amount exceeds threshold
+TXN-00395,2024-01-01,January,Q1,Fidelity Growth Fund,Fee,23005.99,Completed,Retail,Southwest,1,No,
+TXN-00396,2024-12-14,December,Q4,T. Rowe Price Equity,Buy,4941959.06,Completed,Institutional,Northeast,1,No,
+TXN-00397,2024-08-04,August,Q3,Fidelity Growth Fund,Fee,9388.44,Completed,Retail,West,1,No,
+TXN-00398,2024-02-22,February,Q1,Vanguard 500 Index,Dividend,1975333.14,Flagged,Institutional,Southeast,3,Yes,Unusual frequency
+TXN-00399,2024-02-05,February,Q1,PIMCO Total Return,Transfer In,908193.87,Completed,High Net Worth,Southeast,1,No,
+TXN-00400,2024-04-19,April,Q2,Fidelity Growth Fund,Fee,89711.0,Cancelled,Retail,Northeast,3,No,
+TXN-00401,2024-03-04,March,Q1,PIMCO Total Return,Transfer Out,1641067.97,Flagged,Institutional,West,3,Yes,Unusual frequency
+TXN-00402,2024-05-21,May,Q2,Vanguard 500 Index,Sell,20941.85,Pending,Retail,Midwest,0,No,
+TXN-00403,2024-11-06,November,Q4,PIMCO Total Return,Sell,3940627.84,Flagged,Institutional,Northeast,5,Yes,Unusual frequency
+TXN-00404,2024-07-16,July,Q3,Vanguard 500 Index,Sell,1080158.68,Cancelled,High Net Worth,Northeast,2,No,
+TXN-00405,2024-07-03,July,Q3,BlackRock Bond Fund,Sell,762554.3,Flagged,High Net Worth,West,5,Yes,Unusual frequency
+TXN-00406,2024-02-07,February,Q1,Vanguard 500 Index,Transfer In,21966.42,Completed,Retail,Midwest,1,No,
+TXN-00407,2024-01-31,January,Q1,T. Rowe Price Equity,Transfer In,875971.71,Pending,High Net Worth,West,0,No,
+TXN-00408,2024-07-24,July,Q3,Vanguard 500 Index,Transfer Out,1618543.74,Completed,Institutional,Northeast,1,No,
+TXN-00409,2024-09-18,September,Q3,Fidelity Growth Fund,Sell,3208041.81,Flagged,Institutional,Southwest,4,Yes,Amount exceeds threshold
+TXN-00410,2024-12-23,December,Q4,T. Rowe Price Equity,Transfer Out,9078.17,Completed,Retail,Southeast,1,No,
+TXN-00411,2024-08-10,August,Q3,Vanguard 500 Index,Fee,685270.73,Completed,Institutional,Southeast,1,No,
+TXN-00412,2024-12-28,December,Q4,Fidelity Growth Fund,Transfer Out,95325.11,Completed,Retail,West,1,No,
+TXN-00413,2024-09-24,September,Q3,PIMCO Total Return,Transfer Out,13129.6,Pending,Retail,Midwest,0,No,
+TXN-00414,2024-05-17,May,Q2,Vanguard 500 Index,Buy,2666885.64,Flagged,Institutional,Midwest,2,Yes,Off-hours activity
+TXN-00415,2024-09-11,September,Q3,T. Rowe Price Equity,Transfer In,86006.3,Flagged,Retail,West,4,Yes,Unusual frequency
+TXN-00416,2024-03-21,March,Q1,BlackRock Bond Fund,Buy,755.57,Completed,Retail,Southwest,1,No,
+TXN-00417,2024-01-07,January,Q1,Fidelity Growth Fund,Buy,4609110.07,Cancelled,Institutional,West,3,No,
+TXN-00418,2024-01-19,January,Q1,PIMCO Total Return,Transfer Out,25202.19,Flagged,Retail,Midwest,4,Yes,Off-hours activity
+TXN-00419,2024-02-09,February,Q1,PIMCO Total Return,Dividend,399721.48,Completed,High Net Worth,Northeast,1,No,
+TXN-00420,2024-09-21,September,Q3,Vanguard 500 Index,Fee,3890284.65,Completed,Institutional,Midwest,1,No,
+TXN-00421,2024-06-08,June,Q2,BlackRock Bond Fund,Buy,20466.78,Cancelled,Retail,Midwest,4,No,
+TXN-00422,2024-11-14,November,Q4,Fidelity Growth Fund,Fee,1995684.88,Flagged,High Net Worth,West,3,Yes,Unusual frequency
+TXN-00423,2024-03-18,March,Q1,Vanguard 500 Index,Fee,34969.16,Completed,Retail,Southwest,1,No,
+TXN-00424,2024-12-21,December,Q4,Vanguard 500 Index,Dividend,609350.19,Completed,Institutional,Midwest,1,No,
+TXN-00425,2024-09-28,September,Q3,Fidelity Growth Fund,Fee,71309.42,Cancelled,Retail,Southeast,2,No,
+TXN-00426,2024-01-23,January,Q1,Fidelity Growth Fund,Transfer In,4875318.47,Flagged,Institutional,West,2,Yes,Amount exceeds threshold
+TXN-00427,2024-09-15,September,Q3,Fidelity Growth Fund,Transfer Out,56998.16,Flagged,Retail,Southwest,3,Yes,Mismatched account tier
+TXN-00428,2024-05-01,May,Q2,BlackRock Bond Fund,Dividend,1658482.82,Flagged,Institutional,Midwest,3,Yes,Off-hours activity
+TXN-00429,2024-02-08,February,Q1,Fidelity Growth Fund,Sell,16855.31,Completed,Retail,Northeast,1,No,
+TXN-00430,2024-08-26,August,Q3,BlackRock Bond Fund,Fee,1931037.71,Completed,High Net Worth,Midwest,1,No,
+TXN-00431,2024-04-16,April,Q2,T. Rowe Price Equity,Dividend,543062.35,Cancelled,Institutional,Northeast,4,No,
+TXN-00432,2024-12-26,December,Q4,PIMCO Total Return,Buy,546943.23,Completed,Institutional,Southeast,1,No,
+TXN-00433,2024-05-07,May,Q2,BlackRock Bond Fund,Fee,4118439.12,Completed,Institutional,Midwest,1,No,
+TXN-00434,2024-03-30,March,Q1,Vanguard 500 Index,Fee,537212.63,Cancelled,High Net Worth,Southwest,5,No,
+TXN-00435,2024-02-22,February,Q1,Fidelity Growth Fund,Buy,13506.17,Completed,Retail,Southeast,1,No,
+TXN-00436,2024-07-24,July,Q3,BlackRock Bond Fund,Transfer Out,554700.27,Completed,High Net Worth,Southwest,1,No,
+TXN-00437,2024-02-08,February,Q1,Vanguard 500 Index,Buy,550695.33,Completed,Institutional,Southeast,1,No,
+TXN-00438,2024-06-18,June,Q2,Vanguard 500 Index,Buy,92451.11,Cancelled,Retail,Southeast,5,No,
+TXN-00439,2024-07-21,July,Q3,T. Rowe Price Equity,Buy,1834321.94,Flagged,Institutional,Southeast,4,Yes,Unusual frequency
+TXN-00440,2024-05-23,May,Q2,T. Rowe Price Equity,Sell,1253105.47,Completed,High Net Worth,Southwest,1,No,
+TXN-00441,2024-11-27,November,Q4,BlackRock Bond Fund,Fee,168909.18,Flagged,High Net Worth,West,5,Yes,Off-hours activity
+TXN-00442,2024-03-11,March,Q1,T. Rowe Price Equity,Sell,1979337.05,Completed,High Net Worth,Northeast,1,No,
+TXN-00443,2024-07-02,July,Q3,T. Rowe Price Equity,Transfer In,2561726.95,Cancelled,Institutional,Southwest,5,No,
+TXN-00444,2024-05-18,May,Q2,Fidelity Growth Fund,Buy,107141.75,Flagged,High Net Worth,Southeast,2,Yes,Off-hours activity
+TXN-00445,2024-08-29,August,Q3,PIMCO Total Return,Dividend,25161.78,Completed,Retail,Northeast,1,No,
+TXN-00446,2024-05-03,May,Q2,BlackRock Bond Fund,Transfer In,84727.26,Completed,Retail,Southwest,1,No,
+TXN-00447,2024-07-17,July,Q3,BlackRock Bond Fund,Sell,32141.43,Completed,Retail,Southwest,1,No,
+TXN-00448,2024-12-23,December,Q4,BlackRock Bond Fund,Transfer In,2861671.79,Completed,Institutional,Southwest,1,No,
+TXN-00449,2024-10-15,October,Q4,Fidelity Growth Fund,Fee,4277.39,Pending,Retail,West,0,No,
+TXN-00450,2024-01-29,January,Q1,Fidelity Growth Fund,Transfer In,48059.9,Completed,Retail,Southwest,1,No,
+TXN-00451,2024-06-18,June,Q2,PIMCO Total Return,Sell,4602025.86,Completed,Institutional,Southeast,1,No,
+TXN-00452,2024-06-14,June,Q2,Vanguard 500 Index,Buy,1560014.67,Completed,High Net Worth,Southeast,1,No,
+TXN-00453,2024-09-26,September,Q3,BlackRock Bond Fund,Buy,595057.63,Flagged,Institutional,Southwest,4,Yes,Off-hours activity
+TXN-00454,2024-03-10,March,Q1,Fidelity Growth Fund,Transfer Out,953593.09,Flagged,Institutional,Midwest,3,Yes,Off-hours activity
+TXN-00455,2024-12-06,December,Q4,PIMCO Total Return,Sell,724006.99,Flagged,Institutional,Midwest,5,Yes,Amount exceeds threshold
+TXN-00456,2024-10-17,October,Q4,Vanguard 500 Index,Sell,1297311.21,Flagged,High Net Worth,Southeast,5,Yes,Amount exceeds threshold
+TXN-00457,2024-03-13,March,Q1,BlackRock Bond Fund,Transfer Out,98246.78,Completed,Retail,Midwest,1,No,
+TXN-00458,2024-03-26,March,Q1,Vanguard 500 Index,Transfer Out,1399540.96,Flagged,Institutional,Northeast,2,Yes,Unusual frequency
+TXN-00459,2024-06-28,June,Q2,BlackRock Bond Fund,Buy,44102.9,Completed,Retail,West,1,No,
+TXN-00460,2024-08-02,August,Q3,Fidelity Growth Fund,Fee,2775517.44,Cancelled,Institutional,Midwest,2,No,
+TXN-00461,2024-09-02,September,Q3,PIMCO Total Return,Transfer Out,7834.08,Completed,Retail,West,1,No,
+TXN-00462,2024-01-18,January,Q1,BlackRock Bond Fund,Buy,463581.97,Flagged,Institutional,Northeast,5,Yes,Unusual frequency
+TXN-00463,2024-03-23,March,Q1,Vanguard 500 Index,Transfer In,4927852.89,Completed,Institutional,Southwest,1,No,
+TXN-00464,2024-09-04,September,Q3,Vanguard 500 Index,Fee,356352.37,Completed,High Net Worth,West,1,No,
+TXN-00465,2024-02-21,February,Q1,BlackRock Bond Fund,Sell,3637986.71,Completed,Institutional,Southwest,1,No,
+TXN-00466,2024-10-03,October,Q4,BlackRock Bond Fund,Transfer Out,569988.01,Pending,Institutional,Southeast,0,No,
+TXN-00467,2024-07-20,July,Q3,PIMCO Total Return,Transfer In,36402.48,Cancelled,Retail,Northeast,5,No,
+TXN-00468,2024-02-14,February,Q1,BlackRock Bond Fund,Transfer Out,3060.7,Cancelled,Retail,Northeast,3,No,
+TXN-00469,2024-11-22,November,Q4,BlackRock Bond Fund,Buy,78595.22,Cancelled,Retail,Midwest,5,No,
+TXN-00470,2024-09-07,September,Q3,BlackRock Bond Fund,Buy,88606.52,Flagged,Retail,Midwest,3,Yes,Off-hours activity
+TXN-00471,2024-08-16,August,Q3,Vanguard 500 Index,Dividend,1208587.17,Cancelled,Institutional,Midwest,4,No,
+TXN-00472,2024-10-15,October,Q4,Vanguard 500 Index,Sell,80913.93,Completed,Retail,Midwest,1,No,
+TXN-00473,2024-07-30,July,Q3,PIMCO Total Return,Sell,2151297.17,Completed,Institutional,Southwest,1,No,
+TXN-00474,2024-10-01,October,Q4,T. Rowe Price Equity,Transfer In,486879.74,Completed,Institutional,Midwest,1,No,
+TXN-00475,2024-01-18,January,Q1,PIMCO Total Return,Transfer In,17701.46,Completed,Retail,West,1,No,
+TXN-00476,2024-03-26,March,Q1,Fidelity Growth Fund,Sell,8297.67,Completed,Retail,West,1,No,
+TXN-00477,2024-12-15,December,Q4,T. Rowe Price Equity,Sell,673511.5,Completed,High Net Worth,Midwest,1,No,
+TXN-00478,2024-02-04,February,Q1,Vanguard 500 Index,Fee,1720417.15,Flagged,High Net Worth,Midwest,2,Yes,Mismatched account tier
+TXN-00479,2024-12-24,December,Q4,PIMCO Total Return,Transfer In,15389.41,Flagged,Retail,West,2,Yes,Amount exceeds threshold
+TXN-00480,2024-10-15,October,Q4,Vanguard 500 Index,Dividend,1976913.02,Flagged,Institutional,Midwest,5,Yes,Mismatched account tier
+TXN-00481,2024-01-20,January,Q1,Fidelity Growth Fund,Dividend,61061.2,Flagged,Retail,Southwest,2,Yes,Mismatched account tier
+TXN-00482,2024-07-21,July,Q3,BlackRock Bond Fund,Transfer Out,92123.08,Completed,Retail,West,1,No,
+TXN-00483,2024-07-09,July,Q3,Vanguard 500 Index,Dividend,4229948.19,Pending,Institutional,Midwest,0,No,
+TXN-00484,2024-12-22,December,Q4,Vanguard 500 Index,Sell,3892751.41,Completed,Institutional,West,1,No,
+TXN-00485,2024-06-13,June,Q2,BlackRock Bond Fund,Transfer Out,416474.6,Flagged,High Net Worth,Northeast,5,Yes,Unusual frequency
+TXN-00486,2024-09-05,September,Q3,PIMCO Total Return,Dividend,177953.09,Completed,High Net Worth,Southeast,1,No,
+TXN-00487,2024-12-29,December,Q4,PIMCO Total Return,Fee,106448.91,Completed,High Net Worth,Southwest,1,No,
+TXN-00488,2024-04-08,April,Q2,Fidelity Growth Fund,Buy,5530.65,Completed,Retail,West,1,No,
+TXN-00489,2024-07-03,July,Q3,Fidelity Growth Fund,Dividend,2045017.16,Flagged,Institutional,Southwest,2,Yes,Amount exceeds threshold
+TXN-00490,2024-05-03,May,Q2,BlackRock Bond Fund,Fee,58894.58,Cancelled,Retail,West,4,No,
+TXN-00491,2024-06-25,June,Q2,Fidelity Growth Fund,Dividend,1994171.79,Completed,Institutional,Northeast,1,No,
+TXN-00492,2024-03-24,March,Q1,PIMCO Total Return,Sell,27273.82,Completed,Retail,Southeast,1,No,
+TXN-00493,2024-07-28,July,Q3,PIMCO Total Return,Buy,3272120.62,Completed,Institutional,Southeast,1,No,
+TXN-00494,2024-11-03,November,Q4,Vanguard 500 Index,Sell,1439843.95,Pending,High Net Worth,Midwest,0,No,
+TXN-00495,2024-12-29,December,Q4,BlackRock Bond Fund,Fee,1334793.68,Flagged,Institutional,West,4,Yes,Mismatched account tier
+TXN-00496,2024-12-12,December,Q4,PIMCO Total Return,Transfer In,64327.77,Flagged,High Net Worth,Northeast,4,Yes,Off-hours activity
+TXN-00497,2024-06-01,June,Q2,Vanguard 500 Index,Fee,3238914.25,Completed,Institutional,Midwest,1,No,
+TXN-00498,2024-05-21,May,Q2,BlackRock Bond Fund,Transfer Out,51970.71,Pending,Retail,Southeast,0,No,
+TXN-00499,2024-05-03,May,Q2,Vanguard 500 Index,Transfer In,3634287.67,Flagged,Institutional,Southeast,4,Yes,Mismatched account tier
+TXN-00500,2024-05-12,May,Q2,T. Rowe Price Equity,Fee,70952.86,Flagged,Retail,Southwest,4,Yes,Unusual frequency

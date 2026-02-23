@@ -7,7 +7,7 @@ A Power BI dashboard I built to visualize and analyze mutual fund transaction da
 
 ## What it does
 
-The dashboard tracks 500 simulated mutual fund transactions across 5 funds throughout 2024. The goal was to surface the kind of insights that matter in financial operations — transaction volume trends, flagged anomalies, and data accuracy rates — in a way that's easy to read at a glance.
+The dashboard tracks 500 simulated mutual fund transactions across 5 funds throughout 2024. The goal was to surface the kind of insights that matter in financial operations. Transaction volume trends, flagged anomalies and data accuracy rates in a way that's easy to read at a glance.
 
 It has four main sections:
 - **KPI cards** at the top for total transactions, flagged rate, accuracy rate, and total dollar volume
@@ -24,10 +24,9 @@ The Q1–Q4 slicer in the header filters everything on the page simultaneously.
 | Tool | What I used it for |
 |------|-------------------|
 | Power BI Desktop | Dashboard design, data modeling, visuals |
-| Power Query (M) | Data transformation, type casting, derived columns |
+| Power Query (M) | Data transformation, type casting |
 | DAX | KPI measures, CALCULATE(), time intelligence, MoM change |
-| Excel | Companion summary workbook with PivotTables |
-| Python | Generating the sample dataset |
+| Excel | Summary workbook with PivotTables |
 
 ---
 

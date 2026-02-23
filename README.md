@@ -1,5 +1,5 @@
 # Financial-transaction-dashboard
-A Power BI dashboard I built to visualize and analyze mutual fund transaction data — modeled on the kind of monitoring and exception reporting I do in my day-to-day work as a Financial Analyst at BNY Mellon.
+A Power BI dashboard I built to visualize and analyze mutual fund transaction data. Modeled on the kind of monitoring and exception reporting I do in my day-to-day work as a Financial Analyst at BNY Mellon.
 
 ![Dashboard Preview](screenshots/dashboard-main.png)
 
